@@ -6,6 +6,6 @@ A light path expression (LPE) is a type of regular expression that describes a s
 
 
 
-[SideFX LPE Implementation](https://www.sidefx.com/docs/houdini/render/lpe)
+[SideFX Light Path Expressions](https://www.sidefx.com/docs/houdini/render/lpe)
 
 [OSL Light Path Expressions](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/wiki/OSL-Light-Path-Expressions)
