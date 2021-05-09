@@ -4,6 +4,7 @@ A light path expression (LPE) is a type of regular expression that describes a s
 
 ![Image alt](https://github.com/alexwheezy/Mantra-LPE-Cookbook/blob/main/preview_lpe.png)
 
+Here are collected the most typical recipes for creating custom passes for rendering with Mantra, which cannot or were difficult to obtain with standard means.
 
 # Documentation
 
