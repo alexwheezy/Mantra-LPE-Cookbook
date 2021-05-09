@@ -5,6 +5,7 @@ A light path expression (LPE) is a type of regular expression that describes a s
 ![Image alt](https://github.com/alexwheezy/Mantra-LPE-Cookbook/blob/main/preview_lpe.png)
 
 
+# Documentation
 
 [SideFX Light Path Expressions](https://www.sidefx.com/docs/houdini/render/lpe)
 
